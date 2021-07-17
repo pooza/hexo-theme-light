@@ -1,36 +1,17 @@
 menu:
-  Home:
+  Home: /
   Archives: archives
 
 widgets:
-- search
-- category
-- tag
+  - category
 
-excerpt_link: Read More
-
-twitter:
-  username:
-  show_replies: false
-  tweet_count: 5
+excerpt_link: Read more
 
 addthis:
-  enable: true
-  pubid:
-  facebook: true
-  twitter: true
-  google: true
-  pinterest: true
+  enable: false
 
 fancybox: true
 
-google_analytics:
-rss:
+language: ja
 
-comment_provider: facebook
-# Facebook comment
-facebook:
-  appid: 123456789012345
-  comment_count: 5
-  comment_width: 840
-  comment_colorscheme: light
+comment_provider:
